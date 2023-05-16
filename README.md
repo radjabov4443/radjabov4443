@@ -10,11 +10,6 @@
                 src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=DotNet+Developer&center=true&width=580&height=45"></a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/radjabov4443">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=radjabov4443&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radjabov4443&layout=compact&langs_count=7&theme=dracula"/>
-</div>
  </br>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/javlonbek-rajabov" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
